@@ -1,0 +1,3856 @@
+{
+  "no_kpi": true,
+  "creation_time": "2019-06-18T11:18:31",
+  "use_old_load_api": false,
+  "id": 1560856711,
+  "calculation_time": 206237,
+  "spells": {
+    "4": {
+      "exemplars": [
+        {
+          "id": 1499807785112,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382675801,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778390635,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457493704,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458222871,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682068962,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520051004,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682207081,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807020893,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682173639,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382505474,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458167222,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682139053,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778271773,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777976182,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520066068,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417650639,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681978415,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806481647,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222149203,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222161696,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238305352,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238275840,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915012715,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806698716,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682030583,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681803372,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806914650,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681713635,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806521875,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914977683,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806564471,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417804999,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777996828,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777937932,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222132729,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915043020,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238247678,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520036353,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806809234,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240577638,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681847609,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806977343,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240482733,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807880448,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806757899,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807844535,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458189731,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417847217,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240534815,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778338436,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382627891,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "1": {
+      "exemplars": [
+        {
+          "id": 1499777984215,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807858759,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417818775,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458193660,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240588709,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417858237,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238310030,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222068600,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681859454,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807048700,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681771983,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806819872,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914768283,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807824083,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458308875,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806768812,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807893814,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238253268,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682242834,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519977859,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682190589,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806711259,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777912068,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222085841,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382682662,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519960038,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458171852,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458145386,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778359438,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806992959,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806527809,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778414995,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778291966,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382521104,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458348421,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777960114,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806487891,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382632846,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681818598,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806943123,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682041590,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914817548,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238282237,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806446748,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458371933,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519994803,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222102162,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681984623,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240548920,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682074948,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240501763,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417698820,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682150990,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914900926,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "12": {
+      "exemplars": [
+        {
+          "id": 1513780820129,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708512426,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708539409,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780837006,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124417065,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036608716,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708526530,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036624023,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124429823,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124441857,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780851048,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036595326,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "20": {
+      "exemplars": [
+        {
+          "id": 1511966237996,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780854235,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780823113,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966218235,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878126589,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878169791,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966252595,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780839871,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "2": {
+      "exemplars": [
+        {
+          "id": 1500240489296,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914812023,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681810883,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417629400,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458303995,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457546884,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238270366,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914869429,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806775918,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681745291,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382670310,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382542699,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778403286,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777987786,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458367610,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807036985,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777965528,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806311230,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806473938,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807795938,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417788644,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778276409,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238241295,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778348933,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519974865,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682061036,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806931759,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807852237,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806545327,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807887013,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777923365,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914762900,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682183473,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682024626,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222099408,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222063830,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458337817,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681855245,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382399715,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806513281,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417842834,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238298707,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806828738,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240582981,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682145939,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240541110,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519991319,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222082471,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682214489,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806719705,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806984786,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "6": {
+      "exemplars": [
+        {
+          "id": 1506519967186,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458659144,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914787701,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124366607,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458180715,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459212529,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459142188,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459473728,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458804998,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124359313,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459033881,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729565488,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458156320,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459236733,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457952657,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458208283,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729578836,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124373976,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914847690,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458325802,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458694289,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458383088,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459110441,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729551554,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458358168,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222108516,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222075859,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520001231,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458880358,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458021241,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519985122,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459266767,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222093325,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459591197,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459171885,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914913559,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458727352,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458046424,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459540799,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459004371,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458955427,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "11": {
+      "exemplars": [
+        {
+          "id": 1507124422302,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708523962,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036589875,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708509738,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708536726,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124447740,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729554969,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729568445,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036618106,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729581780,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124434599,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036603619,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "13": {
+      "exemplars": [
+        {
+          "id": 1507036620383,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708528772,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729586243,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124424509,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729561144,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124449927,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708541758,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124436850,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036605804,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708515272,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036592751,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729574118,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "5": {
+      "exemplars": [
+        {
+          "id": 1506520078096,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778311964,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778000447,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807004185,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807866225,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458884652,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777979656,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382638832,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382529771,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777943446,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520048197,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807905306,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806849566,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778369198,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806504064,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458722020,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681841811,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240559483,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458689886,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681998602,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682196822,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238293194,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806463645,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520062436,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806540661,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240597883,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681877987,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458755421,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682081853,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682047100,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807072357,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681788500,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458833531,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417810754,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238264610,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457561004,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682251298,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682156603,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807831789,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806954418,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806796546,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458810383,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240518887,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417852639,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238330915,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382690146,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806750107,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778428458,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417693398,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "15": {
+      "exemplars": [
+        {
+          "id": 1507729572008,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708547850,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729558429,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036626904,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036598617,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124439600,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124453000,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708520826,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708533642,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729584292,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124427450,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036611693,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "16": {
+      "exemplars": [
+        {
+          "id": 1513780827805,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966259798,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966243770,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780857830,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878109430,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878173448,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878130081,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966228489,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "14": {
+      "exemplars": [
+        {
+          "id": 1507729576383,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124444407,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729563202,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036629603,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124431897,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507729588198,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708517605,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036615134,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124419497,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507036600992,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708544704,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708531040,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "7": {
+      "exemplars": [
+        {
+          "id": 1501459100036,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520039151,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222152454,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459131268,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459158725,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708366038,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458825503,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457962047,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459040189,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708343201,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222137926,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458026146,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124361612,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914983552,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915049962,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520068648,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708355572,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124376393,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458907520,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459009466,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520053676,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222164842,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458665186,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124368745,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458706675,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458988804,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458052432,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458876058,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915019165,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458732605,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "8": {
+      "exemplars": [
+        {
+          "id": 1506519980721,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459530864,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222090012,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124371668,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458032021,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914782454,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708351886,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459148428,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458201614,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458176819,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459577992,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519998193,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458151196,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124356816,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914841357,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708374334,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459116808,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459177748,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457990647,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519963790,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459469620,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222072361,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458353414,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458313863,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459241713,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1507124364479,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222105335,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459217844,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914907241,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458376859,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459272493,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708362338,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458057082,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "17": {
+      "exemplars": [
+        {
+          "id": 1511878117710,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966246260,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966231752,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780817084,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966262879,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878142195,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878175963,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780834629,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780848414,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "10": {
+      "exemplars": [
+        {
+          "id": 1505915006660,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459230903,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459286063,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458994505,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459126164,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459018959,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459569143,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222158819,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520045627,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708359329,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458945338,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458016338,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459089240,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915063836,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458844413,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459154056,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459602211,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520059604,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458041412,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222146290,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458890616,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459525906,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458717632,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520075544,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708369891,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458676289,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459260270,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458070143,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506708348365,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915032175,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458748982,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222172965,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "19": {
+      "exemplars": [
+        {
+          "id": 1511878181623,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966256030,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780831054,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966240582,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780813118,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966224484,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1513780845539,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878167026,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "9": {
+      "exemplars": [
+        {
+          "id": 1501458006889,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458820256,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459025847,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222141142,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222155815,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459225423,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915056256,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458871788,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520056436,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520071906,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459596723,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459277325,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458738414,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915000296,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459105807,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458712700,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459137450,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458999485,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459251912,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222168353,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458062074,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458950941,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458896261,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458669806,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458037094,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459561322,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520042484,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459165001,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501459518849,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505915025969,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "18": {
+      "exemplars": [
+        {
+          "id": 1511966265580,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878164526,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966234548,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878178342,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511878120948,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1511966249366,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    },
+    "3": {
+      "exemplars": [
+        {
+          "id": 1500240526668,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240570889,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682056507,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222079162,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777991870,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238316567,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458162212,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506520004579,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417876260,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806785794,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807087904,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417824488,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382699313,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458363334,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807012641,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681782484,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682130874,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682008079,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681866883,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777970371,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501457555448,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806457131,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222096462,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500681832125,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682167626,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682201639,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519988634,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1506519971567,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806967384,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778457883,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500682087255,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238287566,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500238258620,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458331262,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914794931,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458389255,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458217604,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806497728,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807911766,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500417704892,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778379728,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806837766,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499777931622,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914923146,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500240604980,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499778317905,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505222111695,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806732089,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807838511,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382537536,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1500382646121,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1505914853464,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499807873900,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1501458184988,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        },
+        {
+          "id": 1499806534904,
+          "quality": {
+            "hints": [],
+            "index": -1
+          }
+        }
+      ],
+      "quality": {
+        "hints": [],
+        "index": -1
+      }
+    }
+  },
+  "quality": {
+    "hints": [],
+    "index": -1
+  },
+  "min_tabernacle_version": "0.7.0"
+}

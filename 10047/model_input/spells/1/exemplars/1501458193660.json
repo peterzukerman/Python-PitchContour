@@ -1,0 +1,11 @@
+{
+  "spell_id": 1,
+  "manual": {
+    "start": 0.7338914015556218,
+    "stop": 1.6305002500012051
+  },
+  "beep_duration": 0.08,
+  "beep_end": 0.1305002500012051,
+  "enabled": true,
+  "signal_file": "10047/model_input/spells/1/exemplars/1501458193660.wav"
+}

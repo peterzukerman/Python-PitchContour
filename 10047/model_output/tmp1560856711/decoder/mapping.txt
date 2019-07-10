@@ -1,0 +1,1103 @@
+Transition-state 1: phone = sil hmm-state = 0 pdf = 0
+ Transition-id = 1 p = 0.25 [self-loop]
+ Transition-id = 2 p = 0.25 [0 -> 1]
+ Transition-id = 3 p = 0.25 [0 -> 2]
+ Transition-id = 4 p = 0.25 [0 -> 3]
+Transition-state 2: phone = sil hmm-state = 1 pdf = 1
+ Transition-id = 5 p = 0.25 [self-loop]
+ Transition-id = 6 p = 0.25 [1 -> 2]
+ Transition-id = 7 p = 0.25 [1 -> 3]
+ Transition-id = 8 p = 0.25 [1 -> 4]
+Transition-state 3: phone = sil hmm-state = 2 pdf = 2
+ Transition-id = 9 p = 0.25 [2 -> 1]
+ Transition-id = 10 p = 0.25 [self-loop]
+ Transition-id = 11 p = 0.25 [2 -> 3]
+ Transition-id = 12 p = 0.25 [2 -> 4]
+Transition-state 4: phone = sil hmm-state = 3 pdf = 3
+ Transition-id = 13 p = 0.25 [3 -> 1]
+ Transition-id = 14 p = 0.25 [3 -> 2]
+ Transition-id = 15 p = 0.25 [self-loop]
+ Transition-id = 16 p = 0.25 [3 -> 4]
+Transition-state 5: phone = sil hmm-state = 4 pdf = 4
+ Transition-id = 17 p = 0.75 [self-loop]
+ Transition-id = 18 p = 0.25 [4 -> 5]
+Transition-state 6: phone = 1 hmm-state = 0 pdf = 5
+ Transition-id = 19 p = 0.83125 [self-loop]
+ Transition-id = 20 p = 0.16875 [0 -> 1]
+Transition-state 7: phone = 1 hmm-state = 1 pdf = 6
+ Transition-id = 21 p = 0.773109 [self-loop]
+ Transition-id = 22 p = 0.226891 [1 -> 2]
+Transition-state 8: phone = 1 hmm-state = 2 pdf = 7
+ Transition-id = 23 p = 0.867971 [self-loop]
+ Transition-id = 24 p = 0.132029 [2 -> 3]
+Transition-state 9: phone = 1 hmm-state = 3 pdf = 8
+ Transition-id = 25 p = 0.85124 [self-loop]
+ Transition-id = 26 p = 0.14876 [3 -> 4]
+Transition-state 10: phone = 1 hmm-state = 4 pdf = 9
+ Transition-id = 27 p = 0.72449 [self-loop]
+ Transition-id = 28 p = 0.27551 [4 -> 5]
+Transition-state 11: phone = 1 hmm-state = 5 pdf = 10
+ Transition-id = 29 p = 0.850416 [self-loop]
+ Transition-id = 30 p = 0.149584 [5 -> 6]
+Transition-state 12: phone = 1 hmm-state = 6 pdf = 11
+ Transition-id = 31 p = 0.625 [self-loop]
+ Transition-id = 32 p = 0.375 [6 -> 7]
+Transition-state 13: phone = 1 hmm-state = 7 pdf = 12
+ Transition-id = 33 p = 0.64 [self-loop]
+ Transition-id = 34 p = 0.36 [7 -> 8]
+Transition-state 14: phone = 1 hmm-state = 8 pdf = 13
+ Transition-id = 35 p = 0.740385 [self-loop]
+ Transition-id = 36 p = 0.259615 [8 -> 9]
+Transition-state 15: phone = 1 hmm-state = 9 pdf = 14
+ Transition-id = 37 p = 0.884615 [self-loop]
+ Transition-id = 38 p = 0.115385 [9 -> 10]
+Transition-state 16: phone = 1 hmm-state = 10 pdf = 15
+ Transition-id = 39 p = 0.854839 [self-loop]
+ Transition-id = 40 p = 0.145161 [10 -> 11]
+Transition-state 17: phone = 1 hmm-state = 11 pdf = 16
+ Transition-id = 41 p = 0.727273 [self-loop]
+ Transition-id = 42 p = 0.272727 [11 -> 12]
+Transition-state 18: phone = 1 hmm-state = 12 pdf = 17
+ Transition-id = 43 p = 0.807143 [self-loop]
+ Transition-id = 44 p = 0.192857 [12 -> 13]
+Transition-state 19: phone = 1 hmm-state = 13 pdf = 18
+ Transition-id = 45 p = 0.761062 [self-loop]
+ Transition-id = 46 p = 0.238938 [13 -> 14]
+Transition-state 20: phone = 1 hmm-state = 14 pdf = 19
+ Transition-id = 47 p = 0.803636 [self-loop]
+ Transition-id = 48 p = 0.196364 [14 -> 15]
+Transition-state 21: phone = 1 hmm-state = 15 pdf = 20
+ Transition-id = 49 p = 0.832298 [self-loop]
+ Transition-id = 50 p = 0.167702 [15 -> 16]
+Transition-state 22: phone = 1 hmm-state = 16 pdf = 21
+ Transition-id = 51 p = 0.696629 [self-loop]
+ Transition-id = 52 p = 0.303371 [16 -> 17]
+Transition-state 23: phone = 1 hmm-state = 17 pdf = 22
+ Transition-id = 53 p = 0.793103 [self-loop]
+ Transition-id = 54 p = 0.206897 [17 -> 18]
+Transition-state 24: phone = 2 hmm-state = 0 pdf = 23
+ Transition-id = 55 p = 0.762791 [self-loop]
+ Transition-id = 56 p = 0.237209 [0 -> 1]
+Transition-state 25: phone = 2 hmm-state = 1 pdf = 24
+ Transition-id = 57 p = 0.903955 [self-loop]
+ Transition-id = 58 p = 0.0960451 [1 -> 2]
+Transition-state 26: phone = 2 hmm-state = 2 pdf = 25
+ Transition-id = 59 p = 0.817204 [self-loop]
+ Transition-id = 60 p = 0.182796 [2 -> 3]
+Transition-state 27: phone = 2 hmm-state = 3 pdf = 26
+ Transition-id = 61 p = 0.913559 [self-loop]
+ Transition-id = 62 p = 0.0864407 [3 -> 4]
+Transition-state 28: phone = 2 hmm-state = 4 pdf = 27
+ Transition-id = 63 p = 0.800781 [self-loop]
+ Transition-id = 64 p = 0.199219 [4 -> 5]
+Transition-state 29: phone = 2 hmm-state = 5 pdf = 28
+ Transition-id = 65 p = 0.840125 [self-loop]
+ Transition-id = 66 p = 0.159875 [5 -> 6]
+Transition-state 30: phone = 2 hmm-state = 6 pdf = 29
+ Transition-id = 67 p = 0.865789 [self-loop]
+ Transition-id = 68 p = 0.13421 [6 -> 7]
+Transition-state 31: phone = 2 hmm-state = 7 pdf = 30
+ Transition-id = 69 p = 0.893082 [self-loop]
+ Transition-id = 70 p = 0.106918 [7 -> 8]
+Transition-state 32: phone = 2 hmm-state = 8 pdf = 31
+ Transition-id = 71 p = 0.764977 [self-loop]
+ Transition-id = 72 p = 0.235023 [8 -> 9]
+Transition-state 33: phone = 2 hmm-state = 9 pdf = 32
+ Transition-id = 73 p = 0.892632 [self-loop]
+ Transition-id = 74 p = 0.107368 [9 -> 10]
+Transition-state 34: phone = 2 hmm-state = 10 pdf = 33
+ Transition-id = 75 p = 0.75122 [self-loop]
+ Transition-id = 76 p = 0.248781 [10 -> 11]
+Transition-state 35: phone = 2 hmm-state = 11 pdf = 34
+ Transition-id = 77 p = 0.892632 [self-loop]
+ Transition-id = 78 p = 0.107368 [11 -> 12]
+Transition-state 36: phone = 2 hmm-state = 12 pdf = 35
+ Transition-id = 79 p = 0.877698 [self-loop]
+ Transition-id = 80 p = 0.122302 [12 -> 13]
+Transition-state 37: phone = 2 hmm-state = 13 pdf = 36
+ Transition-id = 81 p = 0.737113 [self-loop]
+ Transition-id = 82 p = 0.262886 [13 -> 14]
+Transition-state 38: phone = 2 hmm-state = 14 pdf = 37
+ Transition-id = 83 p = 0.721311 [self-loop]
+ Transition-id = 84 p = 0.278689 [14 -> 15]
+Transition-state 39: phone = 2 hmm-state = 15 pdf = 38
+ Transition-id = 85 p = 0.914573 [self-loop]
+ Transition-id = 86 p = 0.0854271 [15 -> 16]
+Transition-state 40: phone = 2 hmm-state = 16 pdf = 39
+ Transition-id = 87 p = 0.886918 [self-loop]
+ Transition-id = 88 p = 0.113082 [16 -> 17]
+Transition-state 41: phone = 2 hmm-state = 17 pdf = 40
+ Transition-id = 89 p = 0.773333 [self-loop]
+ Transition-id = 90 p = 0.226667 [17 -> 18]
+Transition-state 42: phone = 3 hmm-state = 0 pdf = 41
+ Transition-id = 91 p = 0.793233 [self-loop]
+ Transition-id = 92 p = 0.206767 [0 -> 1]
+Transition-state 43: phone = 3 hmm-state = 1 pdf = 42
+ Transition-id = 93 p = 0.924033 [self-loop]
+ Transition-id = 94 p = 0.0759669 [1 -> 2]
+Transition-state 44: phone = 3 hmm-state = 2 pdf = 43
+ Transition-id = 95 p = 0.85215 [self-loop]
+ Transition-id = 96 p = 0.147849 [2 -> 3]
+Transition-state 45: phone = 3 hmm-state = 3 pdf = 44
+ Transition-id = 97 p = 0.786822 [self-loop]
+ Transition-id = 98 p = 0.213178 [3 -> 4]
+Transition-state 46: phone = 3 hmm-state = 4 pdf = 45
+ Transition-id = 99 p = 0.909241 [self-loop]
+ Transition-id = 100 p = 0.090759 [4 -> 5]
+Transition-state 47: phone = 3 hmm-state = 5 pdf = 46
+ Transition-id = 101 p = 0.90894 [self-loop]
+ Transition-id = 102 p = 0.0910596 [5 -> 6]
+Transition-state 48: phone = 3 hmm-state = 6 pdf = 47
+ Transition-id = 103 p = 0.720812 [self-loop]
+ Transition-id = 104 p = 0.279188 [6 -> 7]
+Transition-state 49: phone = 3 hmm-state = 7 pdf = 48
+ Transition-id = 105 p = 0.707447 [self-loop]
+ Transition-id = 106 p = 0.292553 [7 -> 8]
+Transition-state 50: phone = 3 hmm-state = 8 pdf = 49
+ Transition-id = 107 p = 0.877506 [self-loop]
+ Transition-id = 108 p = 0.122494 [8 -> 9]
+Transition-state 51: phone = 3 hmm-state = 9 pdf = 50
+ Transition-id = 109 p = 0.872979 [self-loop]
+ Transition-id = 110 p = 0.127021 [9 -> 10]
+Transition-state 52: phone = 3 hmm-state = 10 pdf = 51
+ Transition-id = 111 p = 0.888664 [self-loop]
+ Transition-id = 112 p = 0.111336 [10 -> 11]
+Transition-state 53: phone = 3 hmm-state = 11 pdf = 52
+ Transition-id = 113 p = 0.885177 [self-loop]
+ Transition-id = 114 p = 0.114823 [11 -> 12]
+Transition-state 54: phone = 3 hmm-state = 12 pdf = 53
+ Transition-id = 115 p = 0.827586 [self-loop]
+ Transition-id = 116 p = 0.172414 [12 -> 13]
+Transition-state 55: phone = 3 hmm-state = 13 pdf = 54
+ Transition-id = 117 p = 0.757709 [self-loop]
+ Transition-id = 118 p = 0.242291 [13 -> 14]
+Transition-state 56: phone = 3 hmm-state = 14 pdf = 55
+ Transition-id = 119 p = 0.862155 [self-loop]
+ Transition-id = 120 p = 0.137845 [14 -> 15]
+Transition-state 57: phone = 3 hmm-state = 15 pdf = 56
+ Transition-id = 121 p = 0.891089 [self-loop]
+ Transition-id = 122 p = 0.108911 [15 -> 16]
+Transition-state 58: phone = 3 hmm-state = 16 pdf = 57
+ Transition-id = 123 p = 0.844633 [self-loop]
+ Transition-id = 124 p = 0.155367 [16 -> 17]
+Transition-state 59: phone = 3 hmm-state = 17 pdf = 58
+ Transition-id = 125 p = 0.84507 [self-loop]
+ Transition-id = 126 p = 0.15493 [17 -> 18]
+Transition-state 60: phone = 4 hmm-state = 0 pdf = 59
+ Transition-id = 127 p = 0.701149 [self-loop]
+ Transition-id = 128 p = 0.29885 [0 -> 1]
+Transition-state 61: phone = 4 hmm-state = 1 pdf = 60
+ Transition-id = 129 p = 0.824916 [self-loop]
+ Transition-id = 130 p = 0.175084 [1 -> 2]
+Transition-state 62: phone = 4 hmm-state = 2 pdf = 61
+ Transition-id = 131 p = 0.863517 [self-loop]
+ Transition-id = 132 p = 0.136483 [2 -> 3]
+Transition-state 63: phone = 4 hmm-state = 3 pdf = 62
+ Transition-id = 133 p = 0.790323 [self-loop]
+ Transition-id = 134 p = 0.209677 [3 -> 4]
+Transition-state 64: phone = 4 hmm-state = 4 pdf = 63
+ Transition-id = 135 p = 0.714286 [self-loop]
+ Transition-id = 136 p = 0.285714 [4 -> 5]
+Transition-state 65: phone = 4 hmm-state = 5 pdf = 64
+ Transition-id = 137 p = 0.767857 [self-loop]
+ Transition-id = 138 p = 0.232143 [5 -> 6]
+Transition-state 66: phone = 4 hmm-state = 6 pdf = 65
+ Transition-id = 139 p = 0.727749 [self-loop]
+ Transition-id = 140 p = 0.272251 [6 -> 7]
+Transition-state 67: phone = 4 hmm-state = 7 pdf = 66
+ Transition-id = 141 p = 0.755869 [self-loop]
+ Transition-id = 142 p = 0.244132 [7 -> 8]
+Transition-state 68: phone = 4 hmm-state = 8 pdf = 67
+ Transition-id = 143 p = 0.846608 [self-loop]
+ Transition-id = 144 p = 0.153392 [8 -> 9]
+Transition-state 69: phone = 4 hmm-state = 9 pdf = 68
+ Transition-id = 145 p = 0.620438 [self-loop]
+ Transition-id = 146 p = 0.379562 [9 -> 10]
+Transition-state 70: phone = 4 hmm-state = 10 pdf = 69
+ Transition-id = 147 p = 0.709497 [self-loop]
+ Transition-id = 148 p = 0.290503 [10 -> 11]
+Transition-state 71: phone = 4 hmm-state = 11 pdf = 70
+ Transition-id = 149 p = 0.873479 [self-loop]
+ Transition-id = 150 p = 0.126521 [11 -> 12]
+Transition-state 72: phone = 4 hmm-state = 12 pdf = 71
+ Transition-id = 151 p = 0.75 [self-loop]
+ Transition-id = 152 p = 0.25 [12 -> 13]
+Transition-state 73: phone = 4 hmm-state = 13 pdf = 72
+ Transition-id = 153 p = 0.734694 [self-loop]
+ Transition-id = 154 p = 0.265306 [13 -> 14]
+Transition-state 74: phone = 4 hmm-state = 14 pdf = 73
+ Transition-id = 155 p = 0.77193 [self-loop]
+ Transition-id = 156 p = 0.22807 [14 -> 15]
+Transition-state 75: phone = 4 hmm-state = 15 pdf = 74
+ Transition-id = 157 p = 0.787755 [self-loop]
+ Transition-id = 158 p = 0.212245 [15 -> 16]
+Transition-state 76: phone = 4 hmm-state = 16 pdf = 75
+ Transition-id = 159 p = 0.733333 [self-loop]
+ Transition-id = 160 p = 0.266667 [16 -> 17]
+Transition-state 77: phone = 4 hmm-state = 17 pdf = 76
+ Transition-id = 161 p = 0.762557 [self-loop]
+ Transition-id = 162 p = 0.237443 [17 -> 18]
+Transition-state 78: phone = 5 hmm-state = 0 pdf = 77
+ Transition-id = 163 p = 0.697531 [self-loop]
+ Transition-id = 164 p = 0.302469 [0 -> 1]
+Transition-state 79: phone = 5 hmm-state = 1 pdf = 78
+ Transition-id = 165 p = 0.810078 [self-loop]
+ Transition-id = 166 p = 0.189923 [1 -> 2]
+Transition-state 80: phone = 5 hmm-state = 2 pdf = 79
+ Transition-id = 167 p = 0.893013 [self-loop]
+ Transition-id = 168 p = 0.106987 [2 -> 3]
+Transition-state 81: phone = 5 hmm-state = 3 pdf = 80
+ Transition-id = 169 p = 0.760976 [self-loop]
+ Transition-id = 170 p = 0.239024 [3 -> 4]
+Transition-state 82: phone = 5 hmm-state = 4 pdf = 81
+ Transition-id = 171 p = 0.664384 [self-loop]
+ Transition-id = 172 p = 0.335617 [4 -> 5]
+Transition-state 83: phone = 5 hmm-state = 5 pdf = 82
+ Transition-id = 173 p = 0.875318 [self-loop]
+ Transition-id = 174 p = 0.124682 [5 -> 6]
+Transition-state 84: phone = 5 hmm-state = 6 pdf = 83
+ Transition-id = 175 p = 0.755 [self-loop]
+ Transition-id = 176 p = 0.245 [6 -> 7]
+Transition-state 85: phone = 5 hmm-state = 7 pdf = 84
+ Transition-id = 177 p = 0.746114 [self-loop]
+ Transition-id = 178 p = 0.253886 [7 -> 8]
+Transition-state 86: phone = 5 hmm-state = 8 pdf = 85
+ Transition-id = 179 p = 0.860399 [self-loop]
+ Transition-id = 180 p = 0.139601 [8 -> 9]
+Transition-state 87: phone = 5 hmm-state = 9 pdf = 86
+ Transition-id = 181 p = 0.75 [self-loop]
+ Transition-id = 182 p = 0.25 [9 -> 10]
+Transition-state 88: phone = 5 hmm-state = 10 pdf = 87
+ Transition-id = 183 p = 0.735135 [self-loop]
+ Transition-id = 184 p = 0.264865 [10 -> 11]
+Transition-state 89: phone = 5 hmm-state = 11 pdf = 88
+ Transition-id = 185 p = 0.802419 [self-loop]
+ Transition-id = 186 p = 0.197581 [11 -> 12]
+Transition-state 90: phone = 5 hmm-state = 12 pdf = 89
+ Transition-id = 187 p = 0.637037 [self-loop]
+ Transition-id = 188 p = 0.362963 [12 -> 13]
+Transition-state 91: phone = 5 hmm-state = 13 pdf = 90
+ Transition-id = 189 p = 0.746114 [self-loop]
+ Transition-id = 190 p = 0.253886 [13 -> 14]
+Transition-state 92: phone = 5 hmm-state = 14 pdf = 91
+ Transition-id = 191 p = 0.763285 [self-loop]
+ Transition-id = 192 p = 0.236715 [14 -> 15]
+Transition-state 93: phone = 5 hmm-state = 15 pdf = 92
+ Transition-id = 193 p = 0.851064 [self-loop]
+ Transition-id = 194 p = 0.148936 [15 -> 16]
+Transition-state 94: phone = 5 hmm-state = 16 pdf = 93
+ Transition-id = 195 p = 0.831034 [self-loop]
+ Transition-id = 196 p = 0.168965 [16 -> 17]
+Transition-state 95: phone = 5 hmm-state = 17 pdf = 94
+ Transition-id = 197 p = 0.84345 [self-loop]
+ Transition-id = 198 p = 0.156549 [17 -> 18]
+Transition-state 96: phone = 6 hmm-state = 0 pdf = 95
+ Transition-id = 199 p = 0.813636 [self-loop]
+ Transition-id = 200 p = 0.186364 [0 -> 1]
+Transition-state 97: phone = 6 hmm-state = 1 pdf = 96
+ Transition-id = 201 p = 0.908277 [self-loop]
+ Transition-id = 202 p = 0.0917225 [1 -> 2]
+Transition-state 98: phone = 6 hmm-state = 2 pdf = 97
+ Transition-id = 203 p = 0.825532 [self-loop]
+ Transition-id = 204 p = 0.174468 [2 -> 3]
+Transition-state 99: phone = 6 hmm-state = 3 pdf = 98
+ Transition-id = 205 p = 0.816144 [self-loop]
+ Transition-id = 206 p = 0.183856 [3 -> 4]
+Transition-state 100: phone = 6 hmm-state = 4 pdf = 99
+ Transition-id = 207 p = 0.811927 [self-loop]
+ Transition-id = 208 p = 0.188073 [4 -> 5]
+Transition-state 101: phone = 6 hmm-state = 5 pdf = 100
+ Transition-id = 209 p = 0.897243 [self-loop]
+ Transition-id = 210 p = 0.102757 [5 -> 6]
+Transition-state 102: phone = 6 hmm-state = 6 pdf = 101
+ Transition-id = 211 p = 0.682171 [self-loop]
+ Transition-id = 212 p = 0.31783 [6 -> 7]
+Transition-state 103: phone = 6 hmm-state = 7 pdf = 102
+ Transition-id = 213 p = 0.719178 [self-loop]
+ Transition-id = 214 p = 0.280822 [7 -> 8]
+Transition-state 104: phone = 6 hmm-state = 8 pdf = 103
+ Transition-id = 215 p = 0.871069 [self-loop]
+ Transition-id = 216 p = 0.128931 [8 -> 9]
+Transition-state 105: phone = 6 hmm-state = 9 pdf = 104
+ Transition-id = 217 p = 0.871875 [self-loop]
+ Transition-id = 218 p = 0.128125 [9 -> 10]
+Transition-state 106: phone = 6 hmm-state = 10 pdf = 105
+ Transition-id = 219 p = 0.845283 [self-loop]
+ Transition-id = 220 p = 0.154717 [10 -> 11]
+Transition-state 107: phone = 6 hmm-state = 11 pdf = 106
+ Transition-id = 221 p = 0.887363 [self-loop]
+ Transition-id = 222 p = 0.112637 [11 -> 12]
+Transition-state 108: phone = 6 hmm-state = 12 pdf = 107
+ Transition-id = 223 p = 0.888889 [self-loop]
+ Transition-id = 224 p = 0.111111 [12 -> 13]
+Transition-state 109: phone = 6 hmm-state = 13 pdf = 108
+ Transition-id = 225 p = 0.760234 [self-loop]
+ Transition-id = 226 p = 0.239766 [13 -> 14]
+Transition-state 110: phone = 6 hmm-state = 14 pdf = 109
+ Transition-id = 227 p = 0.682171 [self-loop]
+ Transition-id = 228 p = 0.31783 [14 -> 15]
+Transition-state 111: phone = 6 hmm-state = 15 pdf = 110
+ Transition-id = 229 p = 0.863333 [self-loop]
+ Transition-id = 230 p = 0.136667 [15 -> 16]
+Transition-state 112: phone = 6 hmm-state = 16 pdf = 111
+ Transition-id = 231 p = 0.77095 [self-loop]
+ Transition-id = 232 p = 0.22905 [16 -> 17]
+Transition-state 113: phone = 6 hmm-state = 17 pdf = 112
+ Transition-id = 233 p = 0.816144 [self-loop]
+ Transition-id = 234 p = 0.183856 [17 -> 18]
+Transition-state 114: phone = 7 hmm-state = 0 pdf = 113
+ Transition-id = 235 p = 0.732143 [self-loop]
+ Transition-id = 236 p = 0.267857 [0 -> 1]
+Transition-state 115: phone = 7 hmm-state = 1 pdf = 114
+ Transition-id = 237 p = 0.907692 [self-loop]
+ Transition-id = 238 p = 0.0923077 [1 -> 2]
+Transition-state 116: phone = 7 hmm-state = 2 pdf = 115
+ Transition-id = 239 p = 0.714286 [self-loop]
+ Transition-id = 240 p = 0.285714 [2 -> 3]
+Transition-state 117: phone = 7 hmm-state = 3 pdf = 116
+ Transition-id = 241 p = 0.770992 [self-loop]
+ Transition-id = 242 p = 0.229008 [3 -> 4]
+Transition-state 118: phone = 7 hmm-state = 4 pdf = 117
+ Transition-id = 243 p = 0.828571 [self-loop]
+ Transition-id = 244 p = 0.171429 [4 -> 5]
+Transition-state 119: phone = 7 hmm-state = 5 pdf = 118
+ Transition-id = 245 p = 0.722222 [self-loop]
+ Transition-id = 246 p = 0.277778 [5 -> 6]
+Transition-state 120: phone = 7 hmm-state = 6 pdf = 119
+ Transition-id = 247 p = 0.638554 [self-loop]
+ Transition-id = 248 p = 0.361446 [6 -> 7]
+Transition-state 121: phone = 7 hmm-state = 7 pdf = 120
+ Transition-id = 249 p = 0.705882 [self-loop]
+ Transition-id = 250 p = 0.294118 [7 -> 8]
+Transition-state 122: phone = 7 hmm-state = 8 pdf = 121
+ Transition-id = 251 p = 0.761905 [self-loop]
+ Transition-id = 252 p = 0.238095 [8 -> 9]
+Transition-state 123: phone = 7 hmm-state = 9 pdf = 122
+ Transition-id = 253 p = 0.815951 [self-loop]
+ Transition-id = 254 p = 0.184049 [9 -> 10]
+Transition-state 124: phone = 7 hmm-state = 10 pdf = 123
+ Transition-id = 255 p = 0.8 [self-loop]
+ Transition-id = 256 p = 0.2 [10 -> 11]
+Transition-state 125: phone = 7 hmm-state = 11 pdf = 124
+ Transition-id = 257 p = 0.777778 [self-loop]
+ Transition-id = 258 p = 0.222222 [11 -> 12]
+Transition-state 126: phone = 7 hmm-state = 12 pdf = 125
+ Transition-id = 259 p = 0.565217 [self-loop]
+ Transition-id = 260 p = 0.434783 [12 -> 13]
+Transition-state 127: phone = 7 hmm-state = 13 pdf = 126
+ Transition-id = 261 p = 0.714286 [self-loop]
+ Transition-id = 262 p = 0.285714 [13 -> 14]
+Transition-state 128: phone = 7 hmm-state = 14 pdf = 127
+ Transition-id = 263 p = 0.814815 [self-loop]
+ Transition-id = 264 p = 0.185185 [14 -> 15]
+Transition-state 129: phone = 7 hmm-state = 15 pdf = 128
+ Transition-id = 265 p = 0.827586 [self-loop]
+ Transition-id = 266 p = 0.172414 [15 -> 16]
+Transition-state 130: phone = 7 hmm-state = 16 pdf = 129
+ Transition-id = 267 p = 0.779412 [self-loop]
+ Transition-id = 268 p = 0.220588 [16 -> 17]
+Transition-state 131: phone = 7 hmm-state = 17 pdf = 130
+ Transition-id = 269 p = 0.894366 [self-loop]
+ Transition-id = 270 p = 0.105634 [17 -> 18]
+Transition-state 132: phone = 8 hmm-state = 0 pdf = 131
+ Transition-id = 271 p = 0.788462 [self-loop]
+ Transition-id = 272 p = 0.211539 [0 -> 1]
+Transition-state 133: phone = 8 hmm-state = 1 pdf = 132
+ Transition-id = 273 p = 0.916244 [self-loop]
+ Transition-id = 274 p = 0.0837564 [1 -> 2]
+Transition-state 134: phone = 8 hmm-state = 2 pdf = 133
+ Transition-id = 275 p = 0.81768 [self-loop]
+ Transition-id = 276 p = 0.182321 [2 -> 3]
+Transition-state 135: phone = 8 hmm-state = 3 pdf = 134
+ Transition-id = 277 p = 0.873563 [self-loop]
+ Transition-id = 278 p = 0.126437 [3 -> 4]
+Transition-state 136: phone = 8 hmm-state = 4 pdf = 135
+ Transition-id = 279 p = 0.913158 [self-loop]
+ Transition-id = 280 p = 0.0868421 [4 -> 5]
+Transition-state 137: phone = 8 hmm-state = 5 pdf = 136
+ Transition-id = 281 p = 0.666667 [self-loop]
+ Transition-id = 282 p = 0.333333 [5 -> 6]
+Transition-state 138: phone = 8 hmm-state = 6 pdf = 137
+ Transition-id = 283 p = 0.815642 [self-loop]
+ Transition-id = 284 p = 0.184358 [6 -> 7]
+Transition-state 139: phone = 8 hmm-state = 7 pdf = 138
+ Transition-id = 285 p = 0.785714 [self-loop]
+ Transition-id = 286 p = 0.214286 [7 -> 8]
+Transition-state 140: phone = 8 hmm-state = 8 pdf = 139
+ Transition-id = 287 p = 0.904624 [self-loop]
+ Transition-id = 288 p = 0.0953757 [8 -> 9]
+Transition-state 141: phone = 8 hmm-state = 9 pdf = 140
+ Transition-id = 289 p = 0.910569 [self-loop]
+ Transition-id = 290 p = 0.0894309 [9 -> 10]
+Transition-state 142: phone = 8 hmm-state = 10 pdf = 141
+ Transition-id = 291 p = 0.859574 [self-loop]
+ Transition-id = 292 p = 0.140426 [10 -> 11]
+Transition-state 143: phone = 8 hmm-state = 11 pdf = 142
+ Transition-id = 293 p = 0.852679 [self-loop]
+ Transition-id = 294 p = 0.147322 [11 -> 12]
+Transition-state 144: phone = 8 hmm-state = 12 pdf = 143
+ Transition-id = 295 p = 0.842857 [self-loop]
+ Transition-id = 296 p = 0.157143 [12 -> 13]
+Transition-state 145: phone = 8 hmm-state = 13 pdf = 144
+ Transition-id = 297 p = 0.902655 [self-loop]
+ Transition-id = 298 p = 0.0973451 [13 -> 14]
+Transition-state 146: phone = 8 hmm-state = 14 pdf = 145
+ Transition-id = 299 p = 0.79375 [self-loop]
+ Transition-id = 300 p = 0.20625 [14 -> 15]
+Transition-state 147: phone = 8 hmm-state = 15 pdf = 146
+ Transition-id = 301 p = 0.826316 [self-loop]
+ Transition-id = 302 p = 0.173684 [15 -> 16]
+Transition-state 148: phone = 8 hmm-state = 16 pdf = 147
+ Transition-id = 303 p = 0.773973 [self-loop]
+ Transition-id = 304 p = 0.226027 [16 -> 17]
+Transition-state 149: phone = 8 hmm-state = 17 pdf = 148
+ Transition-id = 305 p = 0.8125 [self-loop]
+ Transition-id = 306 p = 0.1875 [17 -> 18]
+Transition-state 150: phone = 9 hmm-state = 0 pdf = 149
+ Transition-id = 307 p = 0.878542 [self-loop]
+ Transition-id = 308 p = 0.121457 [0 -> 1]
+Transition-state 151: phone = 9 hmm-state = 1 pdf = 150
+ Transition-id = 309 p = 0.815951 [self-loop]
+ Transition-id = 310 p = 0.184049 [1 -> 2]
+Transition-state 152: phone = 9 hmm-state = 2 pdf = 151
+ Transition-id = 311 p = 0.92268 [self-loop]
+ Transition-id = 312 p = 0.0773196 [2 -> 3]
+Transition-state 153: phone = 9 hmm-state = 3 pdf = 152
+ Transition-id = 313 p = 0.836066 [self-loop]
+ Transition-id = 314 p = 0.163934 [3 -> 4]
+Transition-state 154: phone = 9 hmm-state = 4 pdf = 153
+ Transition-id = 315 p = 0.896552 [self-loop]
+ Transition-id = 316 p = 0.103448 [4 -> 5]
+Transition-state 155: phone = 9 hmm-state = 5 pdf = 154
+ Transition-id = 317 p = 0.756097 [self-loop]
+ Transition-id = 318 p = 0.243902 [5 -> 6]
+Transition-state 156: phone = 9 hmm-state = 6 pdf = 155
+ Transition-id = 319 p = 0.935622 [self-loop]
+ Transition-id = 320 p = 0.0643777 [6 -> 7]
+Transition-state 157: phone = 9 hmm-state = 7 pdf = 156
+ Transition-id = 321 p = 0.842105 [self-loop]
+ Transition-id = 322 p = 0.157895 [7 -> 8]
+Transition-state 158: phone = 9 hmm-state = 8 pdf = 157
+ Transition-id = 323 p = 0.928741 [self-loop]
+ Transition-id = 324 p = 0.0712589 [8 -> 9]
+Transition-state 159: phone = 9 hmm-state = 9 pdf = 158
+ Transition-id = 325 p = 0.716981 [self-loop]
+ Transition-id = 326 p = 0.283019 [9 -> 10]
+Transition-state 160: phone = 9 hmm-state = 10 pdf = 159
+ Transition-id = 327 p = 0.910448 [self-loop]
+ Transition-id = 328 p = 0.0895522 [10 -> 11]
+Transition-state 161: phone = 9 hmm-state = 11 pdf = 160
+ Transition-id = 329 p = 0.865471 [self-loop]
+ Transition-id = 330 p = 0.134529 [11 -> 12]
+Transition-state 162: phone = 9 hmm-state = 12 pdf = 161
+ Transition-id = 331 p = 0.88189 [self-loop]
+ Transition-id = 332 p = 0.11811 [12 -> 13]
+Transition-state 163: phone = 9 hmm-state = 13 pdf = 162
+ Transition-id = 333 p = 0.87013 [self-loop]
+ Transition-id = 334 p = 0.12987 [13 -> 14]
+Transition-state 164: phone = 9 hmm-state = 14 pdf = 163
+ Transition-id = 335 p = 0.90228 [self-loop]
+ Transition-id = 336 p = 0.0977199 [14 -> 15]
+Transition-state 165: phone = 9 hmm-state = 15 pdf = 164
+ Transition-id = 337 p = 0.647059 [self-loop]
+ Transition-id = 338 p = 0.352941 [15 -> 16]
+Transition-state 166: phone = 9 hmm-state = 16 pdf = 165
+ Transition-id = 339 p = 0.5 [self-loop]
+ Transition-id = 340 p = 0.5 [16 -> 17]
+Transition-state 167: phone = 9 hmm-state = 17 pdf = 166
+ Transition-id = 341 p = 0.776119 [self-loop]
+ Transition-id = 342 p = 0.223881 [17 -> 18]
+Transition-state 168: phone = 10 hmm-state = 0 pdf = 167
+ Transition-id = 343 p = 0.881481 [self-loop]
+ Transition-id = 344 p = 0.118519 [0 -> 1]
+Transition-state 169: phone = 10 hmm-state = 1 pdf = 168
+ Transition-id = 345 p = 0.771429 [self-loop]
+ Transition-id = 346 p = 0.228572 [1 -> 2]
+Transition-state 170: phone = 10 hmm-state = 2 pdf = 169
+ Transition-id = 347 p = 0.925926 [self-loop]
+ Transition-id = 348 p = 0.0740741 [2 -> 3]
+Transition-state 171: phone = 10 hmm-state = 3 pdf = 170
+ Transition-id = 349 p = 0.853211 [self-loop]
+ Transition-id = 350 p = 0.146789 [3 -> 4]
+Transition-state 172: phone = 10 hmm-state = 4 pdf = 171
+ Transition-id = 351 p = 0.721739 [self-loop]
+ Transition-id = 352 p = 0.278261 [4 -> 5]
+Transition-state 173: phone = 10 hmm-state = 5 pdf = 172
+ Transition-id = 353 p = 0.762963 [self-loop]
+ Transition-id = 354 p = 0.237037 [5 -> 6]
+Transition-state 174: phone = 10 hmm-state = 6 pdf = 173
+ Transition-id = 355 p = 0.849057 [self-loop]
+ Transition-id = 356 p = 0.150943 [6 -> 7]
+Transition-state 175: phone = 10 hmm-state = 7 pdf = 174
+ Transition-id = 357 p = 0.911602 [self-loop]
+ Transition-id = 358 p = 0.0883978 [7 -> 8]
+Transition-state 176: phone = 10 hmm-state = 8 pdf = 175
+ Transition-id = 359 p = 0.815029 [self-loop]
+ Transition-id = 360 p = 0.184971 [8 -> 9]
+Transition-state 177: phone = 10 hmm-state = 9 pdf = 176
+ Transition-id = 361 p = 0.737705 [self-loop]
+ Transition-id = 362 p = 0.262295 [9 -> 10]
+Transition-state 178: phone = 10 hmm-state = 10 pdf = 177
+ Transition-id = 363 p = 0.909091 [self-loop]
+ Transition-id = 364 p = 0.0909091 [10 -> 11]
+Transition-state 179: phone = 10 hmm-state = 11 pdf = 178
+ Transition-id = 365 p = 0.836735 [self-loop]
+ Transition-id = 366 p = 0.163265 [11 -> 12]
+Transition-state 180: phone = 10 hmm-state = 12 pdf = 179
+ Transition-id = 367 p = 0.838384 [self-loop]
+ Transition-id = 368 p = 0.161616 [12 -> 13]
+Transition-state 181: phone = 10 hmm-state = 13 pdf = 180
+ Transition-id = 369 p = 0.75 [self-loop]
+ Transition-id = 370 p = 0.25 [13 -> 14]
+Transition-state 182: phone = 10 hmm-state = 14 pdf = 181
+ Transition-id = 371 p = 0.793548 [self-loop]
+ Transition-id = 372 p = 0.206452 [14 -> 15]
+Transition-state 183: phone = 10 hmm-state = 15 pdf = 182
+ Transition-id = 373 p = 0.927438 [self-loop]
+ Transition-id = 374 p = 0.0725624 [15 -> 16]
+Transition-state 184: phone = 10 hmm-state = 16 pdf = 183
+ Transition-id = 375 p = 0.835898 [self-loop]
+ Transition-id = 376 p = 0.164103 [16 -> 17]
+Transition-state 185: phone = 10 hmm-state = 17 pdf = 184
+ Transition-id = 377 p = 0.944541 [self-loop]
+ Transition-id = 378 p = 0.0554593 [17 -> 18]
+Transition-state 186: phone = 11 hmm-state = 0 pdf = 185
+ Transition-id = 379 p = 0.837838 [self-loop]
+ Transition-id = 380 p = 0.162162 [0 -> 1]
+Transition-state 187: phone = 11 hmm-state = 1 pdf = 186
+ Transition-id = 381 p = 0.904 [self-loop]
+ Transition-id = 382 p = 0.096 [1 -> 2]
+Transition-state 188: phone = 11 hmm-state = 2 pdf = 187
+ Transition-id = 383 p = 0.851852 [self-loop]
+ Transition-id = 384 p = 0.148148 [2 -> 3]
+Transition-state 189: phone = 11 hmm-state = 3 pdf = 188
+ Transition-id = 385 p = 0.884615 [self-loop]
+ Transition-id = 386 p = 0.115385 [3 -> 4]
+Transition-state 190: phone = 11 hmm-state = 4 pdf = 189
+ Transition-id = 387 p = 0.870968 [self-loop]
+ Transition-id = 388 p = 0.129032 [4 -> 5]
+Transition-state 191: phone = 11 hmm-state = 5 pdf = 190
+ Transition-id = 389 p = 0.818182 [self-loop]
+ Transition-id = 390 p = 0.181818 [5 -> 6]
+Transition-state 192: phone = 11 hmm-state = 6 pdf = 191
+ Transition-id = 391 p = 0.881188 [self-loop]
+ Transition-id = 392 p = 0.118812 [6 -> 7]
+Transition-state 193: phone = 11 hmm-state = 7 pdf = 192
+ Transition-id = 393 p = 0.897436 [self-loop]
+ Transition-id = 394 p = 0.102564 [7 -> 8]
+Transition-state 194: phone = 11 hmm-state = 8 pdf = 193
+ Transition-id = 395 p = 0.853659 [self-loop]
+ Transition-id = 396 p = 0.146341 [8 -> 9]
+Transition-state 195: phone = 11 hmm-state = 9 pdf = 194
+ Transition-id = 397 p = 0.878788 [self-loop]
+ Transition-id = 398 p = 0.121212 [9 -> 10]
+Transition-state 196: phone = 11 hmm-state = 10 pdf = 195
+ Transition-id = 399 p = 0.881188 [self-loop]
+ Transition-id = 400 p = 0.118812 [10 -> 11]
+Transition-state 197: phone = 11 hmm-state = 11 pdf = 196
+ Transition-id = 401 p = 0.777778 [self-loop]
+ Transition-id = 402 p = 0.222222 [11 -> 12]
+Transition-state 198: phone = 11 hmm-state = 12 pdf = 197
+ Transition-id = 403 p = 0.883495 [self-loop]
+ Transition-id = 404 p = 0.116505 [12 -> 13]
+Transition-state 199: phone = 11 hmm-state = 13 pdf = 198
+ Transition-id = 405 p = 0.828571 [self-loop]
+ Transition-id = 406 p = 0.171429 [13 -> 14]
+Transition-state 200: phone = 11 hmm-state = 14 pdf = 199
+ Transition-id = 407 p = 0.820895 [self-loop]
+ Transition-id = 408 p = 0.179104 [14 -> 15]
+Transition-state 201: phone = 11 hmm-state = 15 pdf = 200
+ Transition-id = 409 p = 0.923567 [self-loop]
+ Transition-id = 410 p = 0.0764331 [15 -> 16]
+Transition-state 202: phone = 11 hmm-state = 16 pdf = 201
+ Transition-id = 411 p = 0.855422 [self-loop]
+ Transition-id = 412 p = 0.144578 [16 -> 17]
+Transition-state 203: phone = 11 hmm-state = 17 pdf = 202
+ Transition-id = 413 p = 0.823529 [self-loop]
+ Transition-id = 414 p = 0.176471 [17 -> 18]
+Transition-state 204: phone = 12 hmm-state = 0 pdf = 203
+ Transition-id = 415 p = 0.830986 [self-loop]
+ Transition-id = 416 p = 0.169014 [0 -> 1]
+Transition-state 205: phone = 12 hmm-state = 1 pdf = 204
+ Transition-id = 417 p = 0.818182 [self-loop]
+ Transition-id = 418 p = 0.181818 [1 -> 2]
+Transition-state 206: phone = 12 hmm-state = 2 pdf = 205
+ Transition-id = 419 p = 0.789474 [self-loop]
+ Transition-id = 420 p = 0.210526 [2 -> 3]
+Transition-state 207: phone = 12 hmm-state = 3 pdf = 206
+ Transition-id = 421 p = 0.835616 [self-loop]
+ Transition-id = 422 p = 0.164384 [3 -> 4]
+Transition-state 208: phone = 12 hmm-state = 4 pdf = 207
+ Transition-id = 423 p = 0.857143 [self-loop]
+ Transition-id = 424 p = 0.142857 [4 -> 5]
+Transition-state 209: phone = 12 hmm-state = 5 pdf = 208
+ Transition-id = 425 p = 0.764706 [self-loop]
+ Transition-id = 426 p = 0.235294 [5 -> 6]
+Transition-state 210: phone = 12 hmm-state = 6 pdf = 209
+ Transition-id = 427 p = 0.858824 [self-loop]
+ Transition-id = 428 p = 0.141176 [6 -> 7]
+Transition-state 211: phone = 12 hmm-state = 7 pdf = 210
+ Transition-id = 429 p = 0.815385 [self-loop]
+ Transition-id = 430 p = 0.184615 [7 -> 8]
+Transition-state 212: phone = 12 hmm-state = 8 pdf = 211
+ Transition-id = 431 p = 0.777778 [self-loop]
+ Transition-id = 432 p = 0.222222 [8 -> 9]
+Transition-state 213: phone = 12 hmm-state = 9 pdf = 212
+ Transition-id = 433 p = 0.806452 [self-loop]
+ Transition-id = 434 p = 0.193548 [9 -> 10]
+Transition-state 214: phone = 12 hmm-state = 10 pdf = 213
+ Transition-id = 435 p = 0.8125 [self-loop]
+ Transition-id = 436 p = 0.1875 [10 -> 11]
+Transition-state 215: phone = 12 hmm-state = 11 pdf = 214
+ Transition-id = 437 p = 0.835616 [self-loop]
+ Transition-id = 438 p = 0.164384 [11 -> 12]
+Transition-state 216: phone = 12 hmm-state = 12 pdf = 215
+ Transition-id = 439 p = 0.8 [self-loop]
+ Transition-id = 440 p = 0.2 [12 -> 13]
+Transition-state 217: phone = 12 hmm-state = 13 pdf = 216
+ Transition-id = 441 p = 0.72093 [self-loop]
+ Transition-id = 442 p = 0.27907 [13 -> 14]
+Transition-state 218: phone = 12 hmm-state = 14 pdf = 217
+ Transition-id = 443 p = 0.8125 [self-loop]
+ Transition-id = 444 p = 0.1875 [14 -> 15]
+Transition-state 219: phone = 12 hmm-state = 15 pdf = 218
+ Transition-id = 445 p = 0.842105 [self-loop]
+ Transition-id = 446 p = 0.157895 [15 -> 16]
+Transition-state 220: phone = 12 hmm-state = 16 pdf = 219
+ Transition-id = 447 p = 0.764706 [self-loop]
+ Transition-id = 448 p = 0.235294 [16 -> 17]
+Transition-state 221: phone = 12 hmm-state = 17 pdf = 220
+ Transition-id = 449 p = 0.79661 [self-loop]
+ Transition-id = 450 p = 0.20339 [17 -> 18]
+Transition-state 222: phone = 13 hmm-state = 0 pdf = 221
+ Transition-id = 451 p = 0.79661 [self-loop]
+ Transition-id = 452 p = 0.20339 [0 -> 1]
+Transition-state 223: phone = 13 hmm-state = 1 pdf = 222
+ Transition-id = 453 p = 0.820895 [self-loop]
+ Transition-id = 454 p = 0.179104 [1 -> 2]
+Transition-state 224: phone = 13 hmm-state = 2 pdf = 223
+ Transition-id = 455 p = 0.636364 [self-loop]
+ Transition-id = 456 p = 0.363636 [2 -> 3]
+Transition-state 225: phone = 13 hmm-state = 3 pdf = 224
+ Transition-id = 457 p = 0.755102 [self-loop]
+ Transition-id = 458 p = 0.244898 [3 -> 4]
+Transition-state 226: phone = 13 hmm-state = 4 pdf = 225
+ Transition-id = 459 p = 0.75 [self-loop]
+ Transition-id = 460 p = 0.25 [4 -> 5]
+Transition-state 227: phone = 13 hmm-state = 5 pdf = 226
+ Transition-id = 461 p = 0.727273 [self-loop]
+ Transition-id = 462 p = 0.272727 [5 -> 6]
+Transition-state 228: phone = 13 hmm-state = 6 pdf = 227
+ Transition-id = 463 p = 0.684211 [self-loop]
+ Transition-id = 464 p = 0.315789 [6 -> 7]
+Transition-state 229: phone = 13 hmm-state = 7 pdf = 228
+ Transition-id = 465 p = 0.666667 [self-loop]
+ Transition-id = 466 p = 0.333333 [7 -> 8]
+Transition-state 230: phone = 13 hmm-state = 8 pdf = 229
+ Transition-id = 467 p = 0.755102 [self-loop]
+ Transition-id = 468 p = 0.244898 [8 -> 9]
+Transition-state 231: phone = 13 hmm-state = 9 pdf = 230
+ Transition-id = 469 p = 0.803279 [self-loop]
+ Transition-id = 470 p = 0.196721 [9 -> 10]
+Transition-state 232: phone = 13 hmm-state = 10 pdf = 231
+ Transition-id = 471 p = 0.647059 [self-loop]
+ Transition-id = 472 p = 0.352941 [10 -> 11]
+Transition-state 233: phone = 13 hmm-state = 11 pdf = 232
+ Transition-id = 473 p = 0.454545 [self-loop]
+ Transition-id = 474 p = 0.545455 [11 -> 12]
+Transition-state 234: phone = 13 hmm-state = 12 pdf = 233
+ Transition-id = 475 p = 0.636364 [self-loop]
+ Transition-id = 476 p = 0.363636 [12 -> 13]
+Transition-state 235: phone = 13 hmm-state = 13 pdf = 234
+ Transition-id = 477 p = 0.818182 [self-loop]
+ Transition-id = 478 p = 0.181818 [13 -> 14]
+Transition-state 236: phone = 13 hmm-state = 14 pdf = 235
+ Transition-id = 479 p = 0.692308 [self-loop]
+ Transition-id = 480 p = 0.307692 [14 -> 15]
+Transition-state 237: phone = 13 hmm-state = 15 pdf = 236
+ Transition-id = 481 p = 0.625 [self-loop]
+ Transition-id = 482 p = 0.375 [15 -> 16]
+Transition-state 238: phone = 13 hmm-state = 16 pdf = 237
+ Transition-id = 483 p = 0.73913 [self-loop]
+ Transition-id = 484 p = 0.26087 [16 -> 17]
+Transition-state 239: phone = 13 hmm-state = 17 pdf = 238
+ Transition-id = 485 p = 0.586207 [self-loop]
+ Transition-id = 486 p = 0.413793 [17 -> 18]
+Transition-state 240: phone = 14 hmm-state = 0 pdf = 239
+ Transition-id = 487 p = 0.571429 [self-loop]
+ Transition-id = 488 p = 0.428571 [0 -> 1]
+Transition-state 241: phone = 14 hmm-state = 1 pdf = 240
+ Transition-id = 489 p = 0.52 [self-loop]
+ Transition-id = 490 p = 0.48 [1 -> 2]
+Transition-state 242: phone = 14 hmm-state = 2 pdf = 241
+ Transition-id = 491 p = 0.454545 [self-loop]
+ Transition-id = 492 p = 0.545455 [2 -> 3]
+Transition-state 243: phone = 14 hmm-state = 3 pdf = 242
+ Transition-id = 493 p = 0.368421 [self-loop]
+ Transition-id = 494 p = 0.631579 [3 -> 4]
+Transition-state 244: phone = 14 hmm-state = 4 pdf = 243
+ Transition-id = 495 p = 0.555556 [self-loop]
+ Transition-id = 496 p = 0.444444 [4 -> 5]
+Transition-state 245: phone = 14 hmm-state = 5 pdf = 244
+ Transition-id = 497 p = 0.478261 [self-loop]
+ Transition-id = 498 p = 0.521739 [5 -> 6]
+Transition-state 246: phone = 14 hmm-state = 6 pdf = 245
+ Transition-id = 499 p = 0.5 [self-loop]
+ Transition-id = 500 p = 0.5 [6 -> 7]
+Transition-state 247: phone = 14 hmm-state = 7 pdf = 246
+ Transition-id = 501 p = 0.538462 [self-loop]
+ Transition-id = 502 p = 0.461538 [7 -> 8]
+Transition-state 248: phone = 14 hmm-state = 8 pdf = 247
+ Transition-id = 503 p = 0.368421 [self-loop]
+ Transition-id = 504 p = 0.631579 [8 -> 9]
+Transition-state 249: phone = 14 hmm-state = 9 pdf = 248
+ Transition-id = 505 p = 0.333333 [self-loop]
+ Transition-id = 506 p = 0.666667 [9 -> 10]
+Transition-state 250: phone = 14 hmm-state = 10 pdf = 249
+ Transition-id = 507 p = 0.5 [self-loop]
+ Transition-id = 508 p = 0.5 [10 -> 11]
+Transition-state 251: phone = 14 hmm-state = 11 pdf = 250
+ Transition-id = 509 p = 0.478261 [self-loop]
+ Transition-id = 510 p = 0.521739 [11 -> 12]
+Transition-state 252: phone = 14 hmm-state = 12 pdf = 251
+ Transition-id = 511 p = 0.333333 [self-loop]
+ Transition-id = 512 p = 0.666667 [12 -> 13]
+Transition-state 253: phone = 14 hmm-state = 13 pdf = 252
+ Transition-id = 513 p = 0.333333 [self-loop]
+ Transition-id = 514 p = 0.666667 [13 -> 14]
+Transition-state 254: phone = 14 hmm-state = 14 pdf = 253
+ Transition-id = 515 p = 0.294118 [self-loop]
+ Transition-id = 516 p = 0.705882 [14 -> 15]
+Transition-state 255: phone = 14 hmm-state = 15 pdf = 254
+ Transition-id = 517 p = 0.368421 [self-loop]
+ Transition-id = 518 p = 0.631579 [15 -> 16]
+Transition-state 256: phone = 14 hmm-state = 16 pdf = 255
+ Transition-id = 519 p = 0.454545 [self-loop]
+ Transition-id = 520 p = 0.545455 [16 -> 17]
+Transition-state 257: phone = 14 hmm-state = 17 pdf = 256
+ Transition-id = 521 p = 0.25 [self-loop]
+ Transition-id = 522 p = 0.75 [17 -> 18]
+Transition-state 258: phone = 15 hmm-state = 0 pdf = 257
+ Transition-id = 523 p = 0.8125 [self-loop]
+ Transition-id = 524 p = 0.1875 [0 -> 1]
+Transition-state 259: phone = 15 hmm-state = 1 pdf = 258
+ Transition-id = 525 p = 0.902439 [self-loop]
+ Transition-id = 526 p = 0.097561 [1 -> 2]
+Transition-state 260: phone = 15 hmm-state = 2 pdf = 259
+ Transition-id = 527 p = 0.803279 [self-loop]
+ Transition-id = 528 p = 0.196721 [2 -> 3]
+Transition-state 261: phone = 15 hmm-state = 3 pdf = 260
+ Transition-id = 529 p = 0.89916 [self-loop]
+ Transition-id = 530 p = 0.10084 [3 -> 4]
+Transition-state 262: phone = 15 hmm-state = 4 pdf = 261
+ Transition-id = 531 p = 0.858824 [self-loop]
+ Transition-id = 532 p = 0.141176 [4 -> 5]
+Transition-state 263: phone = 15 hmm-state = 5 pdf = 262
+ Transition-id = 533 p = 0.9 [self-loop]
+ Transition-id = 534 p = 0.1 [5 -> 6]
+Transition-state 264: phone = 15 hmm-state = 6 pdf = 263
+ Transition-id = 535 p = 0.848101 [self-loop]
+ Transition-id = 536 p = 0.151899 [6 -> 7]
+Transition-state 265: phone = 15 hmm-state = 7 pdf = 264
+ Transition-id = 537 p = 0.820895 [self-loop]
+ Transition-id = 538 p = 0.179104 [7 -> 8]
+Transition-state 266: phone = 15 hmm-state = 8 pdf = 265
+ Transition-id = 539 p = 0.905512 [self-loop]
+ Transition-id = 540 p = 0.0944882 [8 -> 9]
+Transition-state 267: phone = 15 hmm-state = 9 pdf = 266
+ Transition-id = 541 p = 0.835616 [self-loop]
+ Transition-id = 542 p = 0.164384 [9 -> 10]
+Transition-state 268: phone = 15 hmm-state = 10 pdf = 267
+ Transition-id = 543 p = 0.823529 [self-loop]
+ Transition-id = 544 p = 0.176471 [10 -> 11]
+Transition-state 269: phone = 15 hmm-state = 11 pdf = 268
+ Transition-id = 545 p = 0.793103 [self-loop]
+ Transition-id = 546 p = 0.206897 [11 -> 12]
+Transition-state 270: phone = 15 hmm-state = 12 pdf = 269
+ Transition-id = 547 p = 0.886792 [self-loop]
+ Transition-id = 548 p = 0.113208 [12 -> 13]
+Transition-state 271: phone = 15 hmm-state = 13 pdf = 270
+ Transition-id = 549 p = 0.837838 [self-loop]
+ Transition-id = 550 p = 0.162162 [13 -> 14]
+Transition-state 272: phone = 15 hmm-state = 14 pdf = 271
+ Transition-id = 551 p = 0.865169 [self-loop]
+ Transition-id = 552 p = 0.134831 [14 -> 15]
+Transition-state 273: phone = 15 hmm-state = 15 pdf = 272
+ Transition-id = 553 p = 0.904 [self-loop]
+ Transition-id = 554 p = 0.096 [15 -> 16]
+Transition-state 274: phone = 15 hmm-state = 16 pdf = 273
+ Transition-id = 555 p = 0.803279 [self-loop]
+ Transition-id = 556 p = 0.196721 [16 -> 17]
+Transition-state 275: phone = 15 hmm-state = 17 pdf = 274
+ Transition-id = 557 p = 0.820895 [self-loop]
+ Transition-id = 558 p = 0.179104 [17 -> 18]
+Transition-state 276: phone = 16 hmm-state = 0 pdf = 275
+ Transition-id = 559 p = 0.885714 [self-loop]
+ Transition-id = 560 p = 0.114286 [0 -> 1]
+Transition-state 277: phone = 16 hmm-state = 1 pdf = 276
+ Transition-id = 561 p = 0.873016 [self-loop]
+ Transition-id = 562 p = 0.126984 [1 -> 2]
+Transition-state 278: phone = 16 hmm-state = 2 pdf = 277
+ Transition-id = 563 p = 0.854545 [self-loop]
+ Transition-id = 564 p = 0.145454 [2 -> 3]
+Transition-state 279: phone = 16 hmm-state = 3 pdf = 278
+ Transition-id = 565 p = 0.882353 [self-loop]
+ Transition-id = 566 p = 0.117647 [3 -> 4]
+Transition-state 280: phone = 16 hmm-state = 4 pdf = 279
+ Transition-id = 567 p = 0.868852 [self-loop]
+ Transition-id = 568 p = 0.131148 [4 -> 5]
+Transition-state 281: phone = 16 hmm-state = 5 pdf = 280
+ Transition-id = 569 p = 0.84 [self-loop]
+ Transition-id = 570 p = 0.16 [5 -> 6]
+Transition-state 282: phone = 16 hmm-state = 6 pdf = 281
+ Transition-id = 571 p = 0.891892 [self-loop]
+ Transition-id = 572 p = 0.108108 [6 -> 7]
+Transition-state 283: phone = 16 hmm-state = 7 pdf = 282
+ Transition-id = 573 p = 0.896104 [self-loop]
+ Transition-id = 574 p = 0.103896 [7 -> 8]
+Transition-state 284: phone = 16 hmm-state = 8 pdf = 283
+ Transition-id = 575 p = 0.866667 [self-loop]
+ Transition-id = 576 p = 0.133333 [8 -> 9]
+Transition-state 285: phone = 16 hmm-state = 9 pdf = 284
+ Transition-id = 577 p = 0.789474 [self-loop]
+ Transition-id = 578 p = 0.210526 [9 -> 10]
+Transition-state 286: phone = 16 hmm-state = 10 pdf = 285
+ Transition-id = 579 p = 0.888889 [self-loop]
+ Transition-id = 580 p = 0.111111 [10 -> 11]
+Transition-state 287: phone = 16 hmm-state = 11 pdf = 286
+ Transition-id = 581 p = 0.804878 [self-loop]
+ Transition-id = 582 p = 0.195122 [11 -> 12]
+Transition-state 288: phone = 16 hmm-state = 12 pdf = 287
+ Transition-id = 583 p = 0.878788 [self-loop]
+ Transition-id = 584 p = 0.121212 [12 -> 13]
+Transition-state 289: phone = 16 hmm-state = 13 pdf = 288
+ Transition-id = 585 p = 0.864407 [self-loop]
+ Transition-id = 586 p = 0.135593 [13 -> 14]
+Transition-state 290: phone = 16 hmm-state = 14 pdf = 289
+ Transition-id = 587 p = 0.851852 [self-loop]
+ Transition-id = 588 p = 0.148148 [14 -> 15]
+Transition-state 291: phone = 16 hmm-state = 15 pdf = 290
+ Transition-id = 589 p = 0.873016 [self-loop]
+ Transition-id = 590 p = 0.126984 [15 -> 16]
+Transition-state 292: phone = 16 hmm-state = 16 pdf = 291
+ Transition-id = 591 p = 0.794872 [self-loop]
+ Transition-id = 592 p = 0.205128 [16 -> 17]
+Transition-state 293: phone = 16 hmm-state = 17 pdf = 292
+ Transition-id = 593 p = 0.906977 [self-loop]
+ Transition-id = 594 p = 0.0930232 [17 -> 18]
+Transition-state 294: phone = 17 hmm-state = 0 pdf = 293
+ Transition-id = 595 p = 0.867647 [self-loop]
+ Transition-id = 596 p = 0.132353 [0 -> 1]
+Transition-state 295: phone = 17 hmm-state = 1 pdf = 294
+ Transition-id = 597 p = 0.804348 [self-loop]
+ Transition-id = 598 p = 0.195652 [1 -> 2]
+Transition-state 296: phone = 17 hmm-state = 2 pdf = 295
+ Transition-id = 599 p = 0.804348 [self-loop]
+ Transition-id = 600 p = 0.195652 [2 -> 3]
+Transition-state 297: phone = 17 hmm-state = 3 pdf = 296
+ Transition-id = 601 p = 0.863636 [self-loop]
+ Transition-id = 602 p = 0.136364 [3 -> 4]
+Transition-state 298: phone = 17 hmm-state = 4 pdf = 297
+ Transition-id = 603 p = 0.830189 [self-loop]
+ Transition-id = 604 p = 0.169811 [4 -> 5]
+Transition-state 299: phone = 17 hmm-state = 5 pdf = 298
+ Transition-id = 605 p = 0.8125 [self-loop]
+ Transition-id = 606 p = 0.1875 [5 -> 6]
+Transition-state 300: phone = 17 hmm-state = 6 pdf = 299
+ Transition-id = 607 p = 0.780488 [self-loop]
+ Transition-id = 608 p = 0.219512 [6 -> 7]
+Transition-state 301: phone = 17 hmm-state = 7 pdf = 300
+ Transition-id = 609 p = 0.844828 [self-loop]
+ Transition-id = 610 p = 0.155172 [7 -> 8]
+Transition-state 302: phone = 17 hmm-state = 8 pdf = 301
+ Transition-id = 611 p = 0.727273 [self-loop]
+ Transition-id = 612 p = 0.272727 [8 -> 9]
+Transition-state 303: phone = 17 hmm-state = 9 pdf = 302
+ Transition-id = 613 p = 0.709677 [self-loop]
+ Transition-id = 614 p = 0.290322 [9 -> 10]
+Transition-state 304: phone = 17 hmm-state = 10 pdf = 303
+ Transition-id = 615 p = 0.873239 [self-loop]
+ Transition-id = 616 p = 0.126761 [10 -> 11]
+Transition-state 305: phone = 17 hmm-state = 11 pdf = 304
+ Transition-id = 617 p = 0.75 [self-loop]
+ Transition-id = 618 p = 0.25 [11 -> 12]
+Transition-state 306: phone = 17 hmm-state = 12 pdf = 305
+ Transition-id = 619 p = 0.8875 [self-loop]
+ Transition-id = 620 p = 0.1125 [12 -> 13]
+Transition-state 307: phone = 17 hmm-state = 13 pdf = 306
+ Transition-id = 621 p = 0.709677 [self-loop]
+ Transition-id = 622 p = 0.290322 [13 -> 14]
+Transition-state 308: phone = 17 hmm-state = 14 pdf = 307
+ Transition-id = 623 p = 0.808511 [self-loop]
+ Transition-id = 624 p = 0.191489 [14 -> 15]
+Transition-state 309: phone = 17 hmm-state = 15 pdf = 308
+ Transition-id = 625 p = 0.727273 [self-loop]
+ Transition-id = 626 p = 0.272727 [15 -> 16]
+Transition-state 310: phone = 17 hmm-state = 16 pdf = 309
+ Transition-id = 627 p = 0.775 [self-loop]
+ Transition-id = 628 p = 0.225 [16 -> 17]
+Transition-state 311: phone = 17 hmm-state = 17 pdf = 310
+ Transition-id = 629 p = 0.927419 [self-loop]
+ Transition-id = 630 p = 0.0725807 [17 -> 18]
+Transition-state 312: phone = 18 hmm-state = 0 pdf = 311
+ Transition-id = 631 p = 0.8 [self-loop]
+ Transition-id = 632 p = 0.2 [0 -> 1]
+Transition-state 313: phone = 18 hmm-state = 1 pdf = 312
+ Transition-id = 633 p = 0.860465 [self-loop]
+ Transition-id = 634 p = 0.139535 [1 -> 2]
+Transition-state 314: phone = 18 hmm-state = 2 pdf = 313
+ Transition-id = 635 p = 0.684211 [self-loop]
+ Transition-id = 636 p = 0.315789 [2 -> 3]
+Transition-state 315: phone = 18 hmm-state = 3 pdf = 314
+ Transition-id = 637 p = 0.8 [self-loop]
+ Transition-id = 638 p = 0.2 [3 -> 4]
+Transition-state 316: phone = 18 hmm-state = 4 pdf = 315
+ Transition-id = 639 p = 0.869565 [self-loop]
+ Transition-id = 640 p = 0.130435 [4 -> 5]
+Transition-state 317: phone = 18 hmm-state = 5 pdf = 316
+ Transition-id = 641 p = 0.785714 [self-loop]
+ Transition-id = 642 p = 0.214286 [5 -> 6]
+Transition-state 318: phone = 18 hmm-state = 6 pdf = 317
+ Transition-id = 643 p = 0.684211 [self-loop]
+ Transition-id = 644 p = 0.315789 [6 -> 7]
+Transition-state 319: phone = 18 hmm-state = 7 pdf = 318
+ Transition-id = 645 p = 0.769231 [self-loop]
+ Transition-id = 646 p = 0.230769 [7 -> 8]
+Transition-state 320: phone = 18 hmm-state = 8 pdf = 319
+ Transition-id = 647 p = 0.714286 [self-loop]
+ Transition-id = 648 p = 0.285714 [8 -> 9]
+Transition-state 321: phone = 18 hmm-state = 9 pdf = 320
+ Transition-id = 649 p = 0.8 [self-loop]
+ Transition-id = 650 p = 0.2 [9 -> 10]
+Transition-state 322: phone = 18 hmm-state = 10 pdf = 321
+ Transition-id = 651 p = 0.875 [self-loop]
+ Transition-id = 652 p = 0.125 [10 -> 11]
+Transition-state 323: phone = 18 hmm-state = 11 pdf = 322
+ Transition-id = 653 p = 0.76 [self-loop]
+ Transition-id = 654 p = 0.24 [11 -> 12]
+Transition-state 324: phone = 18 hmm-state = 12 pdf = 323
+ Transition-id = 655 p = 0.647059 [self-loop]
+ Transition-id = 656 p = 0.352941 [12 -> 13]
+Transition-state 325: phone = 18 hmm-state = 13 pdf = 324
+ Transition-id = 657 p = 0.684211 [self-loop]
+ Transition-id = 658 p = 0.315789 [13 -> 14]
+Transition-state 326: phone = 18 hmm-state = 14 pdf = 325
+ Transition-id = 659 p = 0.8 [self-loop]
+ Transition-id = 660 p = 0.2 [14 -> 15]
+Transition-state 327: phone = 18 hmm-state = 15 pdf = 326
+ Transition-id = 661 p = 0.818182 [self-loop]
+ Transition-id = 662 p = 0.181818 [15 -> 16]
+Transition-state 328: phone = 18 hmm-state = 16 pdf = 327
+ Transition-id = 663 p = 0.73913 [self-loop]
+ Transition-id = 664 p = 0.26087 [16 -> 17]
+Transition-state 329: phone = 18 hmm-state = 17 pdf = 328
+ Transition-id = 665 p = 0.727273 [self-loop]
+ Transition-id = 666 p = 0.272727 [17 -> 18]
+Transition-state 330: phone = 19 hmm-state = 0 pdf = 329
+ Transition-id = 667 p = 0.836735 [self-loop]
+ Transition-id = 668 p = 0.163265 [0 -> 1]
+Transition-state 331: phone = 19 hmm-state = 1 pdf = 330
+ Transition-id = 669 p = 0.75 [self-loop]
+ Transition-id = 670 p = 0.25 [1 -> 2]
+Transition-state 332: phone = 19 hmm-state = 2 pdf = 331
+ Transition-id = 671 p = 0.894737 [self-loop]
+ Transition-id = 672 p = 0.105263 [2 -> 3]
+Transition-state 333: phone = 19 hmm-state = 3 pdf = 332
+ Transition-id = 673 p = 0.733333 [self-loop]
+ Transition-id = 674 p = 0.266667 [3 -> 4]
+Transition-state 334: phone = 19 hmm-state = 4 pdf = 333
+ Transition-id = 675 p = 0.783784 [self-loop]
+ Transition-id = 676 p = 0.216216 [4 -> 5]
+Transition-state 335: phone = 19 hmm-state = 5 pdf = 334
+ Transition-id = 677 p = 0.836735 [self-loop]
+ Transition-id = 678 p = 0.163265 [5 -> 6]
+Transition-state 336: phone = 19 hmm-state = 6 pdf = 335
+ Transition-id = 679 p = 0.9 [self-loop]
+ Transition-id = 680 p = 0.1 [6 -> 7]
+Transition-state 337: phone = 19 hmm-state = 7 pdf = 336
+ Transition-id = 681 p = 0.703704 [self-loop]
+ Transition-id = 682 p = 0.296296 [7 -> 8]
+Transition-state 338: phone = 19 hmm-state = 8 pdf = 337
+ Transition-id = 683 p = 0.75 [self-loop]
+ Transition-id = 684 p = 0.25 [8 -> 9]
+Transition-state 339: phone = 19 hmm-state = 9 pdf = 338
+ Transition-id = 685 p = 0.8 [self-loop]
+ Transition-id = 686 p = 0.2 [9 -> 10]
+Transition-state 340: phone = 19 hmm-state = 10 pdf = 339
+ Transition-id = 687 p = 0.833333 [self-loop]
+ Transition-id = 688 p = 0.166667 [10 -> 11]
+Transition-state 341: phone = 19 hmm-state = 11 pdf = 340
+ Transition-id = 689 p = 0.822222 [self-loop]
+ Transition-id = 690 p = 0.177778 [11 -> 12]
+Transition-state 342: phone = 19 hmm-state = 12 pdf = 341
+ Transition-id = 691 p = 0.836735 [self-loop]
+ Transition-id = 692 p = 0.163265 [12 -> 13]
+Transition-state 343: phone = 19 hmm-state = 13 pdf = 342
+ Transition-id = 693 p = 0.8 [self-loop]
+ Transition-id = 694 p = 0.2 [13 -> 14]
+Transition-state 344: phone = 19 hmm-state = 14 pdf = 343
+ Transition-id = 695 p = 0.813953 [self-loop]
+ Transition-id = 696 p = 0.186046 [14 -> 15]
+Transition-state 345: phone = 19 hmm-state = 15 pdf = 344
+ Transition-id = 697 p = 0.818182 [self-loop]
+ Transition-id = 698 p = 0.181818 [15 -> 16]
+Transition-state 346: phone = 19 hmm-state = 16 pdf = 345
+ Transition-id = 699 p = 0.809524 [self-loop]
+ Transition-id = 700 p = 0.190476 [16 -> 17]
+Transition-state 347: phone = 19 hmm-state = 17 pdf = 346
+ Transition-id = 701 p = 0.794872 [self-loop]
+ Transition-id = 702 p = 0.205128 [17 -> 18]
+Transition-state 348: phone = 20 hmm-state = 0 pdf = 347
+ Transition-id = 703 p = 0.898734 [self-loop]
+ Transition-id = 704 p = 0.101266 [0 -> 1]
+Transition-state 349: phone = 20 hmm-state = 1 pdf = 348
+ Transition-id = 705 p = 0.868852 [self-loop]
+ Transition-id = 706 p = 0.131148 [1 -> 2]
+Transition-state 350: phone = 20 hmm-state = 2 pdf = 349
+ Transition-id = 707 p = 0.864407 [self-loop]
+ Transition-id = 708 p = 0.135593 [2 -> 3]
+Transition-state 351: phone = 20 hmm-state = 3 pdf = 350
+ Transition-id = 709 p = 0.887324 [self-loop]
+ Transition-id = 710 p = 0.112676 [3 -> 4]
+Transition-state 352: phone = 20 hmm-state = 4 pdf = 351
+ Transition-id = 711 p = 0.836735 [self-loop]
+ Transition-id = 712 p = 0.163265 [4 -> 5]
+Transition-state 353: phone = 20 hmm-state = 5 pdf = 352
+ Transition-id = 713 p = 0.794872 [self-loop]
+ Transition-id = 714 p = 0.205128 [5 -> 6]
+Transition-state 354: phone = 20 hmm-state = 6 pdf = 353
+ Transition-id = 715 p = 0.862069 [self-loop]
+ Transition-id = 716 p = 0.137931 [6 -> 7]
+Transition-state 355: phone = 20 hmm-state = 7 pdf = 354
+ Transition-id = 717 p = 0.898734 [self-loop]
+ Transition-id = 718 p = 0.101266 [7 -> 8]
+Transition-state 356: phone = 20 hmm-state = 8 pdf = 355
+ Transition-id = 719 p = 0.880597 [self-loop]
+ Transition-id = 720 p = 0.119403 [8 -> 9]
+Transition-state 357: phone = 20 hmm-state = 9 pdf = 356
+ Transition-id = 721 p = 0.910112 [self-loop]
+ Transition-id = 722 p = 0.0898876 [9 -> 10]
+Transition-state 358: phone = 20 hmm-state = 10 pdf = 357
+ Transition-id = 723 p = 0.757576 [self-loop]
+ Transition-id = 724 p = 0.242424 [10 -> 11]
+Transition-state 359: phone = 20 hmm-state = 11 pdf = 358
+ Transition-id = 725 p = 0.789474 [self-loop]
+ Transition-id = 726 p = 0.210526 [11 -> 12]
+Transition-state 360: phone = 20 hmm-state = 12 pdf = 359
+ Transition-id = 727 p = 0.885714 [self-loop]
+ Transition-id = 728 p = 0.114286 [12 -> 13]
+Transition-state 361: phone = 20 hmm-state = 13 pdf = 360
+ Transition-id = 729 p = 0.887324 [self-loop]
+ Transition-id = 730 p = 0.112676 [13 -> 14]
+Transition-state 362: phone = 20 hmm-state = 14 pdf = 361
+ Transition-id = 731 p = 0.864407 [self-loop]
+ Transition-id = 732 p = 0.135593 [14 -> 15]
+Transition-state 363: phone = 20 hmm-state = 15 pdf = 362
+ Transition-id = 733 p = 0.876923 [self-loop]
+ Transition-id = 734 p = 0.123077 [15 -> 16]
+Transition-state 364: phone = 20 hmm-state = 16 pdf = 363
+ Transition-id = 735 p = 0.857143 [self-loop]
+ Transition-id = 736 p = 0.142857 [16 -> 17]
+Transition-state 365: phone = 20 hmm-state = 17 pdf = 364
+ Transition-id = 737 p = 0.854545 [self-loop]
+ Transition-id = 738 p = 0.145454 [17 -> 18]

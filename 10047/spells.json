@@ -1,0 +1,244 @@
+{
+  "spells": {
+    "1": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "Hello!"
+        }
+      ],
+      "display_name": "Hello!",
+      "creation_date": 1499777838,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "2": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "My name"
+        }
+      ],
+      "display_name": "My name",
+      "creation_date": 1499777838,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "3": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "is Geri."
+        }
+      ],
+      "display_name": "is Geri.",
+      "creation_date": 1499777838,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "4": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "I like"
+        }
+      ],
+      "display_name": "I like",
+      "creation_date": 1499777838,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "5": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "music."
+        }
+      ],
+      "display_name": "music.",
+      "creation_date": 1499777838,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "6": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "I need"
+        }
+      ],
+      "display_name": "I need",
+      "creation_date": 1501457726,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "7": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "a break"
+        }
+      ],
+      "display_name": "a break",
+      "creation_date": 1501457752,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "8": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "I'm bored"
+        }
+      ],
+      "display_name": "I'm bored",
+      "creation_date": 1501457797,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "9": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "chocolate milk"
+        }
+      ],
+      "display_name": "chocolate milk",
+      "creation_date": 1501457899,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "10": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "chicken nuggets"
+        }
+      ],
+      "display_name": "chicken nuggets",
+      "creation_date": 1501457922,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "11": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "technology"
+        }
+      ],
+      "display_name": "technology",
+      "creation_date": 1506708434,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "12": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "drawing"
+        }
+      ],
+      "display_name": "drawing",
+      "creation_date": 1506708442,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "13": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "chips"
+        }
+      ],
+      "display_name": "chips",
+      "creation_date": 1506708466,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "14": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "help"
+        }
+      ],
+      "display_name": "help",
+      "creation_date": 1506708476,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "15": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "more water"
+        }
+      ],
+      "display_name": "more water",
+      "creation_date": 1506708492,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "16": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "I’m tired"
+        }
+      ],
+      "display_name": "I’m tired",
+      "creation_date": 1511878009,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "17": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "Christmas"
+        }
+      ],
+      "display_name": "Christmas",
+      "creation_date": 1511878027,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "18": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "chorus"
+        }
+      ],
+      "display_name": "chorus",
+      "creation_date": 1511878050,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "19": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "Thank you"
+        }
+      ],
+      "display_name": "Thank you",
+      "creation_date": 1511878074,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    },
+    "20": {
+      "action": "synth",
+      "action_data": [
+        {
+          "text": "I don’t know"
+        }
+      ],
+      "display_name": "I don’t know",
+      "creation_date": 1511878100,
+      "_marked_as_deleted": false,
+      "is_ready_for_recognition": true
+    }
+  }
+}
