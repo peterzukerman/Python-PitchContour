@@ -24,9 +24,9 @@ sound = parselmouth.Sound(wavepath)
 manipulation = call(sound, "To Manipulation", 0.001, 200, 600)
 pitch_tier = call("Create PitchTier", "name", 0, 1)
 
-call(pitch_tier, "Add point", startMod, 300)
+call(pitch_tier, "Add point", startMod, 500)
 #call(pitch_tier, "Add point", 0.4, 225)
-call(pitch_tier, "Add point", endMod, 100)
+#call(pitch_tier, "Add point", endMod, 100)
 #instead of extract, create pitch tier, and add 2 points to it (keep in mind voiceless/voiced)
 
 call([pitch_tier, manipulation], "Replace pitch tier")

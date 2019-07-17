@@ -17,7 +17,6 @@ def openFiles(path):
     audio = []
     jsonFiles = []
     directory = os.fsencode(path)
-
     for file in os.listdir(directory):
         filename = os.fsdecode(file)
         os.chdir(path)
