@@ -19,5 +19,7 @@ new_sample_rate = int(sound.frame_rate * (2.0 ** octaves))
 
 lowpitch_sound = sound._spawn(sound.raw_data, overrides={'frame_rate': new_sample_rate})
 
+newSound = lowpitch_sound.speedup(playback_speed=1.5, chunk_size=150, crossfade=25)
+
 #Play pitch changed sound
-play(lowpitch_sound)
+play(newSound)
