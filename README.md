@@ -36,6 +36,25 @@ openFile(jsonPath, filePath)
 ```
 Loads in json files (with start and end times of speech) and the path to the audio files. Returns a 2d array in the format [jsonFiles, samples], where jsonFiles is an array of json objects, and samples is an array of pydub AudioSegments.
 
+```Python
+openModifiers(path)
+```
+Loads in noise that will be overlayed on the samples. Returns an array of AudioSegments.
+
+```Python
+adjustVolume(sample, decibels)
+```
+Adjusts sample volume by decibels. Positive or negative.
+
+```Python
+adjustPitch(wavPath, pitch)
+```
+Creates a pitchTier with a pitchPoint at the given pitch, and resynthesis the wav (from wavPath) based on the pitchTier. Saves the new sound in the format 
+```Python
+("pitch{}.wav".format(" " + str(pitch) + "Hz"), 'WAV')
+```
+
+
 
 
 
